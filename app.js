@@ -1,5 +1,3 @@
-/* New changes that do not make sense*/
-
 /* Requires */
 var favicon = require('serve-favicon');
 var s = require('underscore.string');
