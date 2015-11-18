@@ -1,4 +1,4 @@
-/* Requires */
+/* Required */
 var favicon = require('serve-favicon');
 var s = require('underscore.string');
 var readline = require('readline');
